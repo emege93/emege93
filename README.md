@@ -72,7 +72,7 @@
   <img align="center" alt="Prashant's Telegram" width="22px" src="" />
 </a>
 <a href="https://www.hackerrank.com/singh08prashant">
-  <img align="center" alt="Prashant's Hackerrank" width="22px" src="" />
+  <img align="center" alt="Prashant's Hackerrank" width="22px" src="#" />
 </a>
 
 </p>
