@@ -60,27 +60,27 @@
 
 <p align = "center">
  <a href="https://twitter.com/s08prashant">
-  <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Prashant's Twitter" width="22px" src="" />
 </a>
 <a href="https://www.linkedin.com/in/prashant-singh-08/">
-  <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Prashant's's Linkdein" width="22px" src="" />
 </a>
 <a href="https://github.com/singh08prashant">
-  <img align="center" alt="Prashant's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Prashant's Github" width="22px" src="" />
 </a>
 <a href="https://t.me/s08prashant">
-  <img align="center" alt="Prashant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Prashant's Telegram" width="22px" src="" />
 </a>
 <a href="https://www.hackerrank.com/singh08prashant">
-  <img align="center" alt="Prashant's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Prashant's Hackerrank" width="22px" src="" />
 </a>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsingh08prashant" />
-<img src="https://komarev.com/ghpvc/?username=singh08prashant" alt="singh08prashant" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Femege93" />
+<img src="https://komarev.com/ghpvc/?username=emege93" alt="emege93" />
 
 </p>
 
