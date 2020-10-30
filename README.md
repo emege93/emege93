@@ -36,10 +36,6 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-         <span><b>Tensorflow 2.0</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-      </td>
-      <td width="25%" align="center">
         <span><b>Python 3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
